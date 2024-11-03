@@ -1,0 +1,6 @@
+git add calculator.py  # or calculator.js
+git commit -m "Add simple calculator"
+git push origin main
+python calculator.py
+node calculator.js
+
